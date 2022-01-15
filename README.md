@@ -10,11 +10,11 @@ McMinnville, Oregon is famous for its UFO sightings and has an annual gathering 
 
 In addition to filtering by date, we have added a table filters for the city, state, country, and shape allowing users to define their search criteria for whichever inquiry they are making:
 
-![This is an image]()
+![This is an image](https://github.com/smilesandsobs/UFO-Sightings/blob/main/static/images/Filter%20Search.png)
 
-Using the concel we are able to double check that our search criteria is working correctly: 
+Using the console we are able to double check that our search criteria is working correctly: 
 
-![This is an image]()
+![This is an image](https://github.com/smilesandsobs/UFO-Sightings/blob/main/static/images/Console.png)
 
 Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
 
